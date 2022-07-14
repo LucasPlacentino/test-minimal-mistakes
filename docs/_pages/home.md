@@ -3,36 +3,41 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_color: "#30e3ca"
+  overlay_image: /assets/images/homepage-image.png
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fa-solid fa-keyboard'></i> Get Started"
+      url: "/docs/quick-start/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  A DIY 75% hotswap ISO mechanical keyboard, with a rotary encoder and vertical USB A port.<br /> <small><a href="https://github.com/ObsiLab/Quanta">Github repository</a></small><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>{:/nomarkdown}
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/keyboard-photo.jpg
+    alt: "keyboard photo"
+    title: "The Quanta"
+    excerpt: "The Quanta is a 75%, hotswap, ISO layout, mechanical keyboard."
+    url: "/keyboard/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: /assets/images/firmware-code.png
+    alt: "firmware code"
+    title: "RMK Firmware"
+    excerpt: "Fully open-source customizable firmware written in Rust."
+    url: "/docs/firmware/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - image_path: /assets/images/pcb.png
+    alt: "PCB"
+    title: "Open Hardware"
+    excerpt: "Fully Open-Source hardware, get access to the KiCad Project PCB files. CERN-OHL-P v2 license."
+    url: "/hardware/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+github:
+  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+intro:
+  - excerpt: 'Explore everything about the Quanta'
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
