@@ -20,12 +20,8 @@ foo:
 
 # main links
 main:
-  - title: "Home test 1"
-    url: /
-  - title: "Home test 2"
+  - title: "Home test (url: )"
     url: 
-  - title: "Home test 3"
-    url: ""
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
   - title: "About"
