@@ -6,10 +6,10 @@ header:
   overlay_color: "#30e3ca"
   overlay_image: /assets/images/homepage-image.png
   actions:
-    - label: "<i class='fa-solid fa-keyboard'></i> Get Started"
+    - label: "⌨ Get Started"
       url: "/docs/quick-start/"
 excerpt: >
-  A DIY 75% hotswap ISO mechanical keyboard, with a rotary encoder and vertical USB A port.<br /> <small><a href="https://github.com/ObsiLab/Quanta">Github repository</a></small><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>{:/nomarkdown}
+  A DIY 75% hotswap ISO mechanical keyboard, with a rotary encoder and vertical USB A port.<br /> <small><a href="https://github.com/ObsiLab/Quanta">Github repository</a></small><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=ObsiLab&repo=Quanta&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>{:/nomarkdown}
 feature_row:
   - image_path: /assets/images/keyboard-photo.jpg
     alt: "keyboard photo"
@@ -33,7 +33,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=ObsiLab&repo=Quanta&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=ObsiLab&repo=Quanta&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
   - excerpt: 'Explore everything about the Quanta'
 ---
