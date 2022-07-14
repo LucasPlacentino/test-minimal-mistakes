@@ -199,6 +199,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author_profile: false
+      comments: false
   # _docs
   - scope:
       path: ""
