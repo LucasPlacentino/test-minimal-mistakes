@@ -21,14 +21,14 @@ feature_row:
   - image_path: /assets/images/firmware-code.png
     alt: "firmware code"
     title: "RMK Firmware"
-    excerpt: "Fully open-source customizable firmware written in Rust."
+    excerpt: "Fully open-source customizable firmware written in Rust (MIT License)."
     url: "/docs/firmware/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/pcb.png
     alt: "PCB"
     title: "Open Hardware"
-    excerpt: "Fully Open-Source hardware, get access to the KiCad Project PCB files. CERN-OHL-P v2 license"
+    excerpt: "Fully open-source hardware (CERN-OHL-P v2). Access the KiCad Project PCB files."
     url: "/hardware/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
