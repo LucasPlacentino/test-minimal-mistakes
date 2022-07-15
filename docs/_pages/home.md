@@ -13,21 +13,21 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/keyboard-photo.jpg
     alt: "keyboard photo"
-    title: "<i class='fas fa-keyboard'></i> The Quanta"
+    title: "The Quanta"
     excerpt: "The Quanta is a 75%, hotswap, ISO layout, mechanical keyboard."
     url: "/keyboard/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/firmware-code.png
     alt: "firmware code"
-    title: "<i class="fas fa-code"></i> RMK Firmware"
+    title: "RMK Firmware"
     excerpt: "Fully open-source customizable firmware written in Rust."
     url: "/docs/firmware/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/pcb.png
     alt: "PCB"
-    title: "<i class="fas fa-microchip"></i> Open Hardware"
+    title: "Open Hardware"
     excerpt: "Fully Open-Source hardware, get access to the KiCad Project PCB files. CERN-OHL-P v2 license"
     url: "/hardware/"
     btn_class: "btn--primary"
