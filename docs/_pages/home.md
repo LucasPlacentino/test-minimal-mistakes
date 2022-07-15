@@ -9,7 +9,7 @@ header:
     - label: "⌨ Get Started"
       url: "/docs/quick-start/"
 excerpt: >
-  A DIY 75% hotswap ISO mechanical keyboard, with a rotary encoder and vertical USB A port.<br /> <small><a href="https://github.com/ObsiLab/Quanta">Github repository</a></small><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=ObsiLab&repo=Quanta&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>{:/nomarkdown}
+  A DIY 75% hotswap ISO mechanical keyboard, with a rotary encoder and vertical USB A port.<br /> {::nomarkdown}<a class="github-button" href="https://github.com/ObsiLab/Quanta" data-size="large" aria-label="Quanta on GitHub">Github repository</a>{:/nomarkdown}
 feature_row:
   - image_path: /assets/images/keyboard-photo.jpg
     alt: "keyboard photo"
