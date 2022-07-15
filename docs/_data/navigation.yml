@@ -31,6 +31,10 @@ docs:
         url: /docs/construction/
       - title: "PCB"
         url: /docs/pcb/
+  - title: "Design"
+    children:
+      - title: "Design"
+        url: /design/
   - title: Other
     children:
       - title: "Contributing"
